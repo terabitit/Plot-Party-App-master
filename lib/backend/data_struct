@@ -1,0 +1,44 @@
+
+this is for id
+'uuid': id,
+'plotName': plotName,
+'hostName': hostName,
+'hostNumber': hostNumber,
+'price': price,
+'startDate': startDate,
+'plotPrivacy': plotPrivacy,
+'guests': [
+        {
+        'name': Tom,
+        'Number': 12312312,
+        'Insta': @something,
+        'paid': 123
+        },
+        {
+         'name': Tom,
+         'Number': 12312312,
+         'Insta': @something,
+         'paid': 0
+         },
+'convo': [
+        'convo___ID':
+                 {
+                 'date': someDate
+                 'text': message goes here,
+                 'from': Tom
+                 'insta': @hamesjan
+                 },
+                {
+                 'date': someDate
+                 'text': message goes here,
+                 'from': Tom
+                 'insta': @hamesjan
+                 },
+                {
+                 'date': someDate
+                 'text': message goes here,
+                 'from': Tom
+                 'insta': @hamesjan
+                 },
+]
+]
